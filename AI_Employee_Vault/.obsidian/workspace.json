@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d073ff191059090f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0337e2b7c89a549b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8e5bf8a4736c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plans/plan_client_greeting_20260301.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plan_client_greeting_20260301"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6ebb27741e34494",
+    "type": "split",
+    "children": [
+      {
+        "id": "e839135829291cd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad26fec1c349d4fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d332a53c0eb8e456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bda0be092604ef81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e247e7d062299db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b12bf00b1cd648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88fc63d1065a5817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plans/plan_client_greeting_20260301.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for plan_client_greeting_20260301"
+            }
+          },
+          {
+            "id": "1eac1544e54edc71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plans/plan_client_greeting_20260301.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from plan_client_greeting_20260301"
+            }
+          },
+          {
+            "id": "8ce22b3ed698909b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4519948ecf97380c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "966d5fed5eec158f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plans/plan_client_greeting_20260301.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of plan_client_greeting_20260301"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8a8e5bf8a4736c53",
+  "lastOpenFiles": [
+    "Dashboard.md",
+    "Plans/plan_client_greeting_20260301.md",
+    "Accounting/Current_Month.md",
+    "Done/client_greeting_response_20260301.md",
+    "Done/FILE_DROP_client_20260301_142549.md",
+    "_QWEN_INSTRUCTION.md",
+    "Done/client.md",
+    "Logs/2026-03-01_client_greeting.json",
+    "Needs_Action/FILE_DROP_client_20260301_142549.md",
+    "Inbox/client.md",
+    "Inbox/test_document.txt",
+    "Needs_Action/FILE_DROP_final_test_20260301_141756.md",
+    "Inbox/final_test.txt",
+    "Needs_Action/FILE_DROP_quick_test_20260301_141156.md",
+    "Needs_Action/FILE_DROP_quick_test_20260301_141155.md",
+    "Inbox/quick_test.txt",
+    "Needs_Action/FILE_DROP_demo_20260301_141148.md",
+    "Needs_Action/FILE_DROP_demo_20260301_141138.md",
+    "Needs_Action/FILE_DROP_demo_20260301_140957.md",
+    "Needs_Action/FILE_DROP_test_qwen_instruction_20260301_140511.md",
+    "Inbox/demo.txt",
+    "Needs_Action/FILE_DROP_test_final_20260301_140715.md",
+    "Inbox/test_final.txt",
+    "Needs_Action/FILE_DROP_test_20260301_140701.md",
+    "Inbox/test.txt",
+    "Needs_Action/FILE_DROP_test_qwen_instruction_20260301_140450.md",
+    "Inbox/test_qwen_instruction.txt",
+    "Needs_Action/FILE_DROP_qwen_test_20260301_140217.md",
+    "Inbox/qwen_test.txt",
+    "_CLAUDE_INSTRUCTION.md",
+    "Needs_Action/FILE_DROP_test_for_qwen_20260301_135959.md",
+    "Needs_Action/FILE_DROP_test_for_qwen_20260301_135945.md",
+    "Needs_Action/FILE_DROP_test_for_qwen_20260301_135944.md",
+    "Inbox/test_for_qwen.txt",
+    "Needs_Action/FILE_DROP_test-file_20260301_135933.md",
+    "Inbox/test-file.md"
+  ]
+}

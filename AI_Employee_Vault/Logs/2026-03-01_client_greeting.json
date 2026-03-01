@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-03-01T14:30:00",
+  "action_type": "client_communication",
+  "category": "greeting",
+  "source_file": "Inbox/client.md",
+  "content_summary": "Simple greeting: 'Hi there!'",
+  "priority": "low",
+  "action_taken": "categorized_and_logged",
+  "response_draft": "Hi! Thanks for reaching out. How can I help you today?",
+  "status": "completed",
+  "plan_reference": "Plans/plan_client_greeting_20260301.md"
+}
